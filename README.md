@@ -1,6 +1,6 @@
 # usdt_gambling
 usdt赌博， 转usdt 回TRX 交易hash赌 交易hash usdt抽奖 赌交易hash
-# usdt赌博， 转usdt 回TRX 交易hash赌 交易hash usdt抽奖 赌交易hash 猜交易hash USDT抽奖活动
+# usdt赌博， 转usdt 回TRX 交易hash赌 交易hash usdt抽奖 赌交易hash 猜交易hash USDT抽奖活动  幸运hash
 
 ```java
 1：系统监控指定的钱包地址【钱包地址在配置文件配置】

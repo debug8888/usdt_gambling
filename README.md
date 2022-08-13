@@ -21,7 +21,7 @@ usdt赌博， 转usdt 回TRX 交易hash赌 交易hash usdt抽奖 赌交易hash
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=5a42821f1b1d680f662752e1d10c829b)
 
 # 此系统代码是收费，不是开源。不支持白嫖，想白嫖的请绕道
-# 需要的联系飞机账号 @tt88pay 请备注是github看到的
+# 需要的联系飞机账号 @ttt88pay 请备注是github看到的
 
 
 
